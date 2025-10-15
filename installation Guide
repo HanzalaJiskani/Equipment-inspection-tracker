@@ -1,0 +1,23 @@
+This project was created by me in my free time relying on AI resources. You can upload the config.php file to any AI to get the right installation steps. Thank you
+I intend to change its database from PHPmyadmin to SQLworkbench with Flask.
+
+Hospital Equipment Management System
+A web-based application for managing hospital equipment inspections using QR codes.
+
+Features
+* Add, edit, delete, and track equipment details
+* Generate QR codes for each equipment item
+* Record and view inspection results
+* Dashboard with statistics and charts
+* Import equipment in bulk from Excel
+* Role-based access (Admin & Inspector)
+
+How to install:
+just upload the config.php and database schema file to Chatgpt for the installation Guide. The database used is PHP hosted on Xampp
+
+License
+Free for free use or learning.
+
+Creator:
+Developed by Hanzala Muhammad Jiskani
+jiskanihanzala@gmail.com
